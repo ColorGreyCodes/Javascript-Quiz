@@ -1,1 +1,2 @@
 # Javascript-Quiz
+The goal for this project is to create a timed multiple-choice quiz from scratch using HTML, CSS, and Javascript while utilizing Web APIs. This quiz is for coding bootcamp students. The user is presented with a series of questions within 75 seconds. For every incorrect answer, 10 seconds is deducted from the time remaining. Once all questions are answered or the timers reaches 0, the user is then able to enter their initials and submit their score.
